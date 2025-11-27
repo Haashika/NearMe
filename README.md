@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 25-09-2025
+## Date: 27-11-2025
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -35,7 +35,7 @@ Execute the programs and publish them.
 </head>
 <body> 
     <h1 align="center"><font color="Black"><b>Ambattur</b></font></h1>
-    <h2 align="center"><font color="Black"><b>Kamlesh Y (212224100029)</b></font></h2>
+    <h2 align="center"><font color="Black"><b>HAASHIKA SINOU S(212224110018)</b></font></h2>
     <center>
         <img src="map.png" usemap="#MyCity" height="610" width="1243">
 
