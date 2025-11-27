@@ -1,5 +1,5 @@
-# Ex03 Places Around Me
-## Date: 25-09-2025
+# Ex.04. Imagemap
+## Date: 27-11-2025
 ## AIM
 To develop a website to display details about the places around my house.
 
